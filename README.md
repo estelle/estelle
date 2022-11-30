@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**estelle/estelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Estelle. A little about me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with @openwebdocs on maintaining @MDN, 
+- 🌱 I’m always learning CSS, HTML, JavaScript, and accessibility
+- 👯 I’m looking to collaborate on projects that help reduce inequality in STEM and society as a whole.
+- 🤔 I’m looking for help maintaining MDN
+- 💬 Ask me about what you can do to be more inclusive.
+- 📫 How to reach me: myFirstName@myLastName.org
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I have a public health degree. Oddly, it comes in handy as a web developer, technical writer, and professional cat herder.
+
+You can find me on <a rel="me" href="https://front-end.social/@estelle">Mastodon</a>. I am no longer on Twitter.
