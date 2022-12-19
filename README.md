@@ -3,7 +3,7 @@
 My name is Estelle. A little about me:
 
 
-- 🔭 I’m currently working with @openwebdocs on maintaining @MDN, 
+- 🔭 I work with @openwebdocs on maintaining @MDN, 
 - 🌱 I’m always learning CSS, HTML, JavaScript, and accessibility
 - 👯 I’m looking to collaborate on projects that help reduce inequality in STEM and society as a whole.
 - 🤔 I’m looking for help maintaining MDN
