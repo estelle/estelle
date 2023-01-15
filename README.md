@@ -4,6 +4,7 @@ My name is Estelle. A little about me:
 
 
 - 🔭 I work with @openwebdocs on maintaining @MDN, 
+- 📝 I am the author [Learn HTML](https://web.dev/learn/html) and co-author of [CSS: The Definitive Guide](https://learning.oreilly.com/library/view/css-the-definitive/9781098117603/)
 - 🌱 I’m always learning CSS, HTML, JavaScript, and accessibility
 - 👯 I’m looking to collaborate on projects that help reduce inequality in STEM and society as a whole.
 - 🤔 I’m looking for help maintaining MDN
