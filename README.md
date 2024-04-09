@@ -21,5 +21,5 @@ You can find me on <a rel="me" href="https://front-end.social/@estelle">Mastodon
 
 [![Profile views](https://komarev.com/ghpvc/?username=estelle)](https://github.com/antonkomarev/github-profile-views-counter) since July 19, 2023
 
-If you want to support my work, please [sponsor @openwebdocs](https://github.com/sponsors/openwebdocs)
+[![OWD](https://avatars.githubusercontent.com/u/73961485?s=64)](https://github.com/sponsors/openwebdocs)  To support my work, [sponsor @openwebdocs](https://github.com/sponsors/openwebdocs)
   
