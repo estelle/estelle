@@ -9,7 +9,7 @@ My name is Estelle. A little about me:
 - 🌱 I’m always learning CSS, HTML, JavaScript, and accessibility
 - 👯 I’m looking to collaborate on projects that help reduce inequality in STEM and society as a whole.
 - 🤔 I’m looking for help maintaining MDN
-- 💬 Ask me about what you can do to be more inclusive.
+- 💬 Ask me about what you can do to be more universally welcoming.
 - 📫 How to reach me: myFirstName@myLastName.org
 - 😄 Pronouns: She/her
 - ⚠️ I value kindness over niceties
