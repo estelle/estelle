@@ -1,3 +1,7 @@
+Si vous avez trouvé mon portefeuille, veuillez m'envoyer un e-mail à estelle (mon-prénom) @ (mon-nom-de-famille) weyl.org. Merci
+
+If you found my wallet, please translate the above sentence.
+
 ### Hi there 👋
 
 My name is Estelle. A little about me:
