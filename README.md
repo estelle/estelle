@@ -24,10 +24,12 @@ You can find me on <a rel="me" href="https://front-end.social/@estelle">Mastodon
 [![GitHub](https://github-readme-stats.vercel.app/api?username=estelle&show_icons=true&count_private=true&include_all_commits=true&custom_title=Estelle's&nbsp;GitHub&nbsp;Stats&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Profile views](https://komarev.com/ghpvc/?username=estelle)](https://github.com/antonkomarev/github-profile-views-counter) since July 19, 2023
-<!--
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=estelle)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Readme stats](https://github-readme-stats.vercel.app/api/top-langs?username=estelle)
 
 ![Streak](https://streak-stats.demolab.com?user=estelle)
--->
+
 [![OWD](https://avatars.githubusercontent.com/u/73961485?s=64)](https://github.com/sponsors/openwebdocs)  To support my work, [sponsor @openwebdocs](https://github.com/sponsors/openwebdocs)
   
