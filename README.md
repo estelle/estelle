@@ -1,14 +1,10 @@
-Si vous avez trouvé mon portefeuille, veuillez m'envoyer un e-mail à estelle (mon-prénom) @ (mon-nom-de-famille) weyl.org. Merci
-
-If you found my wallet, please translate the above sentence.
-
 ### Hi there 👋
 
 My name is Estelle. A little about me:
 
 
 - 🔭 I work with [@openwebdocs](https://github.com/openwebdocs) on maintaining [@MDN](https://github.com/mdn),
-- 🏠 I live in San Francisco
+- 🏠 I live in San Francisco, CA and Lyon, France
 - 📝 I am author of [Learn HTML](https://web.dev/learn/html) and co-author of [CSS: The Definitive Guide](https://learning.oreilly.com/library/view/css-the-definitive/9781098117603/)
 - 🌱 I’m always learning CSS, HTML, JavaScript, and accessibility
 - 👯 I’m looking to collaborate on projects that help reduce inequality in STEM and society as a whole.
